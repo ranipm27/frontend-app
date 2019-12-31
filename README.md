@@ -29,3 +29,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 "# koolshopping" 
 "# koolshopping" 
 "# koolshopping" 
+
+## If You Are downloading from github
+1.Download the code open project folder in Command Prompt
+2.Run the following command
+    npm install
+3.Run the Application using
+    ng serve
